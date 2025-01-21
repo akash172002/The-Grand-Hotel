@@ -2,4 +2,6 @@
 
 This is Hotel booking application in which this website is for reception person who can login his/her id and check booking and cabins and update the cabins and bookings and hotel online settings like charges etc.
 
+And in this React query and Supabase is used
+
 Developed by - Akash Chandra Sarraf
